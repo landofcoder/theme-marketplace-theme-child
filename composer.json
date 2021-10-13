@@ -2,7 +2,7 @@
     "name": "landofcoder/module-market-child-theme",
     "description": "Magento 2 Marketplace child theme Extension",
     "require": {
-      "landofcoder/module-all" : "1.*",
+      "landofcoder/module-market-child-theme-module" : "1.*"
     },
     "keywords": [
       "landofcoder",
